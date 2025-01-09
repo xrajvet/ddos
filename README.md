@@ -35,16 +35,16 @@ To use the DRipper type the following commands in Termux:
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
-`cd DDoS-Ripper`
+`git clone https://github.com/xrajvet/ddos.git`
+`cd ddos`
 `$ ls`
 `$ python3 DRipper.py` OR `python2 DRipper.py`
 
 ## For Windows
 
-`git clone https://github.com/palahsu/DDoS-Ripper`
+`git clone git clone https://github.com/xrajvet/ddos.git`
 
-`cd DDoS-Ripper`
+`cd ddos`
 ` ls`
 
 `python3 DRipper.py` OR `python DRipper.py`
@@ -77,7 +77,7 @@ Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
-<a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
+<a href="https://t.me/raajvet"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
 Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 
